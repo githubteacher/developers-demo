@@ -1,7 +1,7 @@
 ### List of Facts about GitHubTeacher
-#### For GitHub for Developers to learn about me
+#### GitHub for Developers Class ... 2016.03.31
 
 - [ ] Name:
 - [ ] Location:
-- [ ] Favorite Foods
+- [ ] Favorite Foods:
 - [ ] Fun Fact about yourself: 
