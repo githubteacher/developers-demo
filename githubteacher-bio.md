@@ -11,3 +11,5 @@
 - Engineer
 - Love to Knit/Crochet
 - Love love to Garden
+- Love Surfing
+- Love snorkeling
