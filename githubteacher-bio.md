@@ -4,4 +4,4 @@
 - [ ] Name:
 - [ ] Location:
 - [ ] Favorite Foods:
-- [ ] Fun Fact about yourself: 
+- [ ] Favorite Vacation Spot:
