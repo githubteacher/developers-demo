@@ -13,7 +13,4 @@
 - Surfing
 - Snorkel/Scuba Dive
 
-
-
-
 #### These changes will not stick
