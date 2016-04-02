@@ -6,7 +6,7 @@
 - [ ] Favorite Foods:
 - [ ] Favorite Vacation Spot:
 
-#### Fun things I like to do
+#### Fun things I like to do on Vacation
 
 - Engineer
 - Love to Knit/Crochet
