@@ -12,5 +12,3 @@
 - Garden
 - Surfing
 - Snorkel/Scuba Dive
-
-#### Testing Edits now
