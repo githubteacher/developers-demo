@@ -6,12 +6,10 @@
 - [ ] Favorite Foods:
 - [ ] Favorite Vacation Spot:
 
-#### Fun Facts
+#### Fun things I like to do
 
 - Engineer
 - Love to Knit/Crochet
 - Love love to Garden
 - Love Surfing
 - Love snorkeling
-- Love Biking the Papillion Trail
-- Enjoy Husker Football
