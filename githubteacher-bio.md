@@ -13,3 +13,5 @@
 - Love love to Garden
 - Love Surfing
 - Love snorkeling
+- Love Biking the Papillion Trail
+- Enjoy Husker Football
