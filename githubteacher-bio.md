@@ -8,8 +8,7 @@
 
 #### Want to for the rest of my life
 
-- Engineer
-- Love to Knit/Crochet
-- Love love to Garden
-- Love Surfing
-- Love snorkeling
+- Knit/Crochet
+- Garden
+- Surfing
+- Snorkel/Scuba Dive
