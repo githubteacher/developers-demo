@@ -1,3 +1,4 @@
 ### This file will show the diff example.
 
-- [ ] Questions?
+- [ ] diff-example
+- [ ] commit-mistake example
