@@ -1,4 +1,5 @@
-#### GitHub for Developers Class ... 2016.03.31
+#### GithubTeacher Bio
+
 
 - [ ] Name:
 - [ ] Location:
