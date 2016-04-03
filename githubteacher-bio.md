@@ -12,6 +12,5 @@
 - Garden
 - Surfing
 - Snorkel/Scuba Dive
-
-
-#### Making a Place to Test HEAD
+- Live Near the Ocean
+- Be Warm
