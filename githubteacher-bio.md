@@ -1,4 +1,3 @@
-### GitHubTeacher is Anna Christine
 #### GitHub for Developers Class ... 2016.03.31
 
 - [ ] Name:
