@@ -13,3 +13,9 @@
 - Garden
 - Surfing
 - Snorkel/Scuba Dive
+
+#### Places I want to live
+
+- Garmisch-Partikirschen
+- London, UK
+- St. Augustine, Florida
