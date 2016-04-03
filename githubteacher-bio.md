@@ -1,6 +1,5 @@
 # GitHub Teacher Bio for Class
 
-
 - [ ] Name:
 - [ ] Location:
 - [ ] Favorite Foods:
