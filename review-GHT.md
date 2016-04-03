@@ -1,4 +1,4 @@
-### Reviewing Day 1 of Github for Developers
+### Some markdown options
 
 - [ ] Lists
 - [ ] Bullets
