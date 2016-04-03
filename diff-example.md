@@ -3,3 +3,5 @@
 - [ ] diff-example
 - [ ] commit-mistake example
 - [ ] Rebase
+- [ ] Reflog
+- [ ] Revert
