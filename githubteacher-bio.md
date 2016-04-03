@@ -1,4 +1,4 @@
-#### GithubTeacher Bio
+# GitHub Teacher Bio for Class
 
 
 - [ ] Name:
