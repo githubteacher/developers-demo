@@ -1,4 +1,7 @@
 ### Viewing Local diffs and History
 
-- Look at the diff between changes in the file
-- Diff between stage and working directory
+- git diff
+- git diff --staged
+- git diff --color-words
+
+#### Trying to see the diff in changes between working directory and staged area
