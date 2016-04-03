@@ -16,6 +16,5 @@
 
 #### Places I want to live
 
-- Garmisch-Partikirschen
-- London, UK
+- Garmisch-Partikirschen, Germany
 - St. Augustine, Florida
