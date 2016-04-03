@@ -13,8 +13,3 @@
 - Garden
 - Surfing
 - Snorkel/Scuba Dive
-
-#### Places I want to live
-
-- Garmisch-Partikirschen, Germany
-- St. Augustine, Florida
